@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Python Developer",
+        "url": "https://example.com/python-dev",
+        "descriptions": "Разработка на Python, Django, Flask",
+        "requirements": "Опыт работы от 3 лет, знание SQL",
+        "salary": 6000
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://example.com/python-dev",
+        "descriptions": "Разработка на Python, Django, Flask",
+        "requirements": "Опыт работы от 3 лет, знание SQL",
+        "salary": 56000
+    }
+]
